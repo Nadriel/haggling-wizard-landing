@@ -23,3 +23,7 @@
 ## Task 3 — 2026-06-05
 - **Files changed:** style.css (written), tests/test_task3.py (created)
 - Wrote mobile-first vanilla CSS covering system font stack, section spacing, readable line lengths, and a min-width 640px breakpoint for desktop layout with a two-column form and horizontal how-it-works steps; 67 total tests pass.
+
+## Task 7 — 2026-06-05
+- **Files changed:** tests/test_task7.py (created)
+- Audited index.html against every affiliate program requirement (eBay Partner Network, AbeBooks/Impact Radius, Biblio/Awin); all requirements met with no gaps; 21 new compliance tests added, 113 total tests pass.
